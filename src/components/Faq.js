@@ -14,7 +14,8 @@ export default function Faq(props) {
                         </button>
                     </h2>
                     <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample" >
-                        <div className="accordion-body">This is a simple text utility application. Use it to play around with your text by converting it to upper case, lower case, camel case, reversing the sentence, or even removing space between words. <br /><br />You can also use the "Generate Random Quotes" feature to generate a new quote</div>
+                        <div className="accordion-body">This is a simple text utility application. Use it to play around with your text by converting it to upper case, lower case, camel case, reversing the sentence, or even removing space between words. 
+                        <br /><br />You can also use the "Generate Random Quotes" feature to generate a new quote for yourself and feel inspired.</div>
                     </div>
                 </div>
                 <div className="accordion-item" style={{ backgroundColor: props.mode === 'light' ? 'white' : '#212529', color: props.mode === 'light' ? 'black' : 'white' }}>

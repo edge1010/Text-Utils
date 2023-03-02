@@ -41,19 +41,19 @@ function App() {
     }, 2500);
   }
 
-  
+
   return (
     <>
-        <Navbar title="Text Utils" mode="dark" toggleMode={toggleMode} />
-        <Alert alert={alert} />
-        <div className="container my-3">
-          <Routes>
-            <Route exact path="/quote" element={<Quote />}/>
-            <Route exact path="/"  element={<TextForm heading="Enter the text to analyze" mode={mode} showAlert={showAlert} />} />
-          </Routes>
+      <Navbar title="Text Utils" mode="dark" toggleMode={toggleMode} />
+      <Alert alert={alert} />
+      <div className="container my-3">
+        <Routes>
+          <Route exact path="/Text-Utils" element={<TextForm heading="Enter the text to analyze" mode={mode} showAlert={showAlert} />} />
+          <Route exact path="/Text-Utils/quote" element={<Quote />} />
+        </Routes>
 
-          <Faq heading="FAQs" mode={mode} />
-        </div>
+        <Faq heading="FAQs" mode={mode} />
+      </div>
     </>
   );
 }
