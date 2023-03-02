@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Text-Utils/static/css/main.e8a35ad2.css",
-    "main.js": "/Text-Utils/static/js/main.f668c963.js",
+    "main.js": "/Text-Utils/static/js/main.215efcc4.js",
     "static/js/787.28cb0dcd.chunk.js": "/Text-Utils/static/js/787.28cb0dcd.chunk.js",
     "static/media/star-night.jpg": "/Text-Utils/static/media/star-night.7c342d03b107c1fe100a.jpg",
     "static/media/yellow.png": "/Text-Utils/static/media/yellow.a22b2cafed352abcb097.png",
     "static/media/ss.png": "/Text-Utils/static/media/ss.025413a188f39e46998f.png",
     "index.html": "/Text-Utils/index.html",
     "main.e8a35ad2.css.map": "/Text-Utils/static/css/main.e8a35ad2.css.map",
-    "main.f668c963.js.map": "/Text-Utils/static/js/main.f668c963.js.map",
+    "main.215efcc4.js.map": "/Text-Utils/static/js/main.215efcc4.js.map",
     "787.28cb0dcd.chunk.js.map": "/Text-Utils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a35ad2.css",
-    "static/js/main.f668c963.js"
+    "static/js/main.215efcc4.js"
   ]
 }
